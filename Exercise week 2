@@ -1,0 +1,17 @@
+package oneDayCampusLife;
+
+public class OneDayCampusLife {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println ("Good Morning, sir and my fellow friends.");
+		System.out.println ("In the case, i will talik about my one day in campus life.");
+		System.out.println ("First at all, i'm wake up at 8'o clock to got some breakfasts");
+		System.out.println ("I continue my revision at 8.45am.");
+		System.out.println ("Futhermore, to do better in programming, i do some reseacrch at 10'o clock");
+		System.out.println ("AND GOOD LUCK GUYS^^");
+
+
+	}
+
+}
